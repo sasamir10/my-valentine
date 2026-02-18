@@ -15,7 +15,6 @@ body {
     justify-content: center;
     align-items: center;
     position: relative;
-    cursor: pointer;
 }
 
 @keyframes gradientShift {
@@ -213,4 +212,5 @@ button {
         padding: 0.4em 0.8em;
         font-size: 0.9em;
     }
+
 }
